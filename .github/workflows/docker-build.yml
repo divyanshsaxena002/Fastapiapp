@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/fastapi-app:latest
+          tags: divyanshsaxena002/fastapi-app:latest
